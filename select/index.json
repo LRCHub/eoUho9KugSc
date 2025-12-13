@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "R×R×R",
+  "base_artist": "Hakos Baelz",
+  "createdAt": "2025-12-13T14:07:35.653130Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "R×R×R",
+      "artist": "Hakos Baelz",
+      "has_synced": false,
+      "path": "select/01_R×R×R_Hakos_Baelz.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "R R R",
+      "artist": "theHELL",
+      "has_synced": true,
+      "path": "select/02_R_R_R_theHELL.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Prologue for R.R.R",
+      "artist": "Turisas",
+      "has_synced": true,
+      "path": "select/03_Prologue_for_R.R.R_Turisas.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Prologue For R.R.R. [Spoken Words]",
+      "artist": "Turisas",
+      "has_synced": true,
+      "path": "select/04_Prologue_For_R.R.R._[Spoken_Words]_Turisas.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Prologue for R.R.R.",
+      "artist": "Turisas",
+      "has_synced": true,
+      "path": "select/05_Prologue_for_R.R.R._Turisas.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "R.R.R.",
+      "artist": "theHELL",
+      "has_synced": true,
+      "path": "select/06_R.R.R._theHELL.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "R×R×R",
+      "artist": "Hakos Baelz",
+      "has_synced": false,
+      "path": "select/pl_01_R×R×R_Hakos_Baelz.txt"
+    }
+  ]
+}
